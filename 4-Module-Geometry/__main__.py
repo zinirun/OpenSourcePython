@@ -8,7 +8,7 @@ import nose
 
 def test_module():
 
-    print("***** Geometry Calulator *****\n",'### menu ###\n', 'p - perimeter\n',
+    print("***** Geometry Calculator *****\n",'### menu ###\n', 'p - perimeter\n',
          'a - area\n', 'v - volume\n', 'b - busbar\n', 'pytha - pythagorean theorem\n')
 
     user_menu = str(input())
